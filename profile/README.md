@@ -7,4 +7,6 @@ Metformin treatment for diabetes prevention in Africa: META Trial, TASO, MRC/UVR
 * https://www.inteafrica.org/related-projects/meta-trial/
 * https://www.lstmed.ac.uk/research/departments/international-public-health/respond-africa/meta
 
+* https://github.com/meta-trial/meta-edc
+
 [![meta-edc](https://img.shields.io/pypi/v/meta-edc.svg)](https://pypi.python.org/pypi/meta-edc)
