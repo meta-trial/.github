@@ -9,4 +9,7 @@ Metformin treatment for diabetes prevention in Africa: META Trial, TASO, MRC/UVR
 
 * https://github.com/meta-trial/meta-edc
 
-[![meta-edc](https://img.shields.io/pypi/v/meta-edc.svg)](https://pypi.python.org/pypi/meta-edc)
+[![meta-edc](https://img.shields.io/pypi/v/meta-edc.svg)](https://pypi.python.org/pypi/meta-edc) 
+[![clinic-edc](https://img.shields.io/badge/framework-Clinic_EDC-green)](https://github.com/clinicedc) 
+
+
